@@ -13,9 +13,9 @@
     },
     "autoload": {
         "psr-0": {
-            "Edge\\Library": "src/"
-        },
-        "classmap": [ "src/" ]
+            "Edge\\Library": "src/",
+            "Edge\\Library\\Test": "tests/"
+        }
     },
     "minimum-stability": "stable",
     "target-dir": "Edge/Library"
