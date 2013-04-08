@@ -1,8 +1,8 @@
 <?php
 
-namespace Edge\Library\Test\Type;
+namespace Edge\Library\Tests\Type;
 
-use Edge\Library\Type\String;
+use Edge\Utils\Type\String;
 
 /**
  * @author Tomáš Kuba <tomas.kuba@edgedesign.cz>

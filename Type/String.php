@@ -1,6 +1,6 @@
 <?php
 
-namespace Edge\Library\Type;
+namespace Edge\Utils\Type;
 
 /**
  * This Class is based on part of the Nette Framework (http://nette.org)

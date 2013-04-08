@@ -1,8 +1,8 @@
 <?php
 
-namespace Edge\Library\Test\Converter;
+namespace Edge\Utils\Tests\Converter;
 
-use Edge\Library\Converter\Base62;
+use Edge\Utils\Converter\Base62;
 
 /**
  * @author Tomáš Kuba <tomas.kuba@edgedesign.cz>
