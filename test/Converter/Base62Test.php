@@ -1,13 +1,13 @@
 <?php
 
-namespace Edge\LibraryBundle\Tests\String;
+namespace Edge\Library\Test\Converter;
 
-use Edge\LibraryBundle\Converters\Base62;
+use Edge\Library\Converter\Base62;
 
 /**
  * @author Tomáš Kuba <tomas.kuba@edgedesign.cz>
  */
-class Base62Test extends \Edge\LibraryBundle\Test\UnitTestCase
+class Base62Test extends \PHPUnit_Framework_TestCase
 {
     /**
     * @var Base62

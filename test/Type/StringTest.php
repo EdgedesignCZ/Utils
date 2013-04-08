@@ -1,13 +1,13 @@
 <?php
 
-namespace Edge\LibraryBundle\Tests\String;
+namespace Edge\Library\Test\Type;
 
-use Edge\LibraryBundle\String\String;
+use Edge\Library\Type\String;
 
 /**
  * @author Tomáš Kuba <tomas.kuba@edgedesign.cz>
  */
-class StringTest extends \Edge\LibraryBundle\Test\UnitTestCase
+class StringTest extends \PHPUnit_Framework_TestCase
 {
 
     public function testCoversionToString()

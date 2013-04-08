@@ -1,6 +1,6 @@
 <?php
 
-namespace Edge\LibraryBundle\Converter;
+namespace Edge\Library\Converter;
 
 /**
  * Encode integer to URL 'sexy' string and decode string back to integer

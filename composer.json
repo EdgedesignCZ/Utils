@@ -12,7 +12,11 @@
         "php": ">=5.3.2"
     },
     "autoload": {
-        "psr-0": { "Edge\\Library": "" }
+        "psr-0": {
+            "Edge\\Library": "src/"
+        },
+        "classmap": [ "src/" ]
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+    "target-dir": "Edge/Library"
 }
